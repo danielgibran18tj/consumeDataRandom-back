@@ -1,0 +1,6 @@
+@ConsumeAgrosotf_HostAddress = http://localhost:5025
+
+GET {{ConsumeAgrosotf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
